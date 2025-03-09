@@ -27,10 +27,12 @@
 
 <h3 align="center">📊 Stat 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanguk01&show_icons=true&theme=dracula" alt="GitHub Stats">&nbsp;&nbsp;
   <a href="https://solved.ac/lm0828">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lm0828" alt="Solved.ac Profile">
   </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=kanguk01&show_icons=true&theme=dracula" alt="GitHub Stats">&nbsp;&nbsp;
+
 </p>
 
 <br>
