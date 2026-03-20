@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=_000000&height=300&section=header&text=Kanguk's%20Github&fontColor=FFFFFF&fontSize=60&animation=fadeIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Kanguk's%20Github&fontColor=FFFFFF&fontSize=60&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Kanguk's%20Github&fontColor=000000&fontSize=60&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=Kanguk's%20Github&fontColor=FFFFFF&fontSize=60&animation=fadeIn" />
+  </picture>
 </p>
 
 <div align="center">
