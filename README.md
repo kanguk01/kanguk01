@@ -73,10 +73,6 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanguk01&theme=tokyo-night&hide_border=true" width="100%">
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanguk01/kanguk01/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanguk01/kanguk01/output/github-snake.svg">
