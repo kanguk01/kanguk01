@@ -91,12 +91,6 @@
 
 <div align="center">
 
-<a href="https://solved.ac/lm0828">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lm0828" alt="Solved.ac Profile">
-</a>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=kanguk01&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
 </div>
