@@ -68,7 +68,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kanguk01&theme=darkhub&no-frame=true&row=1&column=7">
+  <img src="https://github-trophies.vercel.app/?username=kanguk01&theme=darkhub&no-frame=true&row=1&column=7">
 </div>
 
 <br>
